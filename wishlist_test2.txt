@@ -1,25 +1,31 @@
 title:DIM
-description:Trait Combos (pve + pvp). 
+description: This is a curated list containing only Trait Combos for PVE and PVP. 
 title:Season 21
 //Nation of Beasts [Craftable]
 dimwishlist:item=70083888&perks=3661387068,106909392,1428297954,3038247973(pve)
 dimwishlist:item=70083888&perks=3661387068,3142289711,3978468247,1015611457(pvp)
 
-//Glissando-47
-//The Messenger (Adept)
-//Age-Old Bond
-//Swarm of the Raven
-//Positive Outlook
-//Chattering Bone
-//Last Rite
-//Cold Comfort
-//Braytech Osprey (Adept)
-//Rapacious Appetite
-//Pressurized Precicion
-//Last Foray
-//Epochal Integration
-//New Pacific Epitaph
-//Just in Case
+//Glissando-47[]
+dimwishlist:item=222606050&perks=1523832109,831391274PVE: Precision final blows spawn threadlings at target. Every 4 seconds, while not firing, loads 10% ammo from reserves.
+dimwishlist:item=222606050&perks=3619207468,2551157718PVP: No enemies in 15 meters range for bonus range and reaload speed, then Aim Down Sights (ADS) 1.5 seconds for increased critical damage.
+
+//The Messenger (Adept)[]
+dimwishlist:item=364665267&perks=247725512,460017080PVP: Body shots boosts precision damage, rapid precision hit increase stability and reaload speed. Do body damage first to boost bonus precision damage, then do precision damage.
+dimwishlist:item=364665267&perks=1428297954,460017080[PVP] Theorycraft: Body shots boosts precision damage, while moving gain bonus stability, handling and reload speed. How to use: Do body damage first to boost bonus precision damage, then do precision damage. Shoot while moving.
+
+//Age-Old Bond[]
+//Swarm of the Raven[]
+//Positive Outlook[]
+//Chattering Bone[]
+//Last Rite[]
+//Cold Comfort[]
+//Braytech Osprey (Adept)[]
+//Rapacious Appetite[]
+//Pressurized Precicion[]
+//Last Foray[]
+//Epochal Integration[]
+//New Pacific Epitaph[]
+//Just in Case[]
 //Unexpected Resurgeance (Adept)
 //Sole Survivor
 //Combined Action
@@ -36,9 +42,9 @@ dimwishlist:item=70083888&perks=3661387068,3142289711,3978468247,1015611457(pvp)
 //Loaded Question
 //Laser Painter
 //Spare Rations
-dimwishlist:item=3236112986&perks=3161816588,47981717PVPTESTnotes//notes:notes
-dimwishlist:item=3236112986&perks=588594999,3891536761(pve)
-dimwishlist:item=3236112986&perks=247725512,3891536761(pve)
+dimwishlist:item=3236112986&perks=3161816588,47981717[PVP] Theorycraft: Body shots boosts precision damage, while moving gain bonus stability, handling and reload speed. How to use: Do body damage first to boost bonus precision damage, then do precision damage. Shoot while moving.PVP: Slide first for bonus range and stability, then shoot target. First shot has bonus range and aim assistance.
+dimwishlist:item=3236112986&perks=588594999,3891536761PVE: Boosts Aim assists when Aiming Down Sight (ADS). Sustained damage emits shockwaves.
+dimwishlist:item=3236112986&perks=247725512,3891536761PVE: Do rapid precision hits for bonus stability and reload speed. Stacks 5 times. Sustained damage emits shockwaves.
 
 //No Survivors
 //Randy's Throwing Knife
