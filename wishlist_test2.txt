@@ -36,7 +36,7 @@ dimwishlist:item=70083888&perks=3661387068,3142289711,3978468247,1015611457(pvp)
 //Loaded Question
 //Laser Painter
 //Spare Rations
-dimwishlist:item=3236112986&perks=3161816588,47981717(pvp)
+dimwishlist:item=3236112986&perks=3161816588,47981717PVPTESTnotes//notes:notes
 dimwishlist:item=3236112986&perks=588594999,3891536761(pve)
 dimwishlist:item=3236112986&perks=247725512,3891536761(pve)
 
