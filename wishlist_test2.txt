@@ -1,3 +1,8 @@
+
+Dic = {
+    "incandescent" : "Defeating a target spread scorch to those nearby."
+}
+
 title:DIM
 description: This is a curated list containing only Trait Combos for PVE and PVP. 
 title:Season 21
@@ -6,55 +11,140 @@ dimwishlist:item=70083888&perks=3661387068,106909392,1428297954,3038247973(pve)
 dimwishlist:item=70083888&perks=3661387068,3142289711,3978468247,1015611457(pvp)
 
 //Glissando-47[]
-dimwishlist:item=222606050&perks=1523832109,831391274PVE: Precision final blows spawn threadlings at target. Every 4 seconds, while not firing, loads 10% ammo from reserves.
-dimwishlist:item=222606050&perks=3619207468,2551157718PVP: No enemies in 15 meters range for bonus range and reaload speed, then Aim Down Sights (ADS) 1.5 seconds for increased critical damage.
+//[Farming] [Neomuna] Open Legendary engrams and earn faction rank-up packages.
+dimwishlist:item=222606050&perks=1523832109,831391274[PVE] Theorycraft: Precision final blows spawn threadlings at target. Every 4 seconds, while not firing, loads 10% ammo from reserves.
+dimwishlist:item=222606050&perks=3619207468,2551157718[PVP] Theorycraft: No enemies in 15 meters range for bonus range and reaload speed, then Aim Down Sights (ADS) 1.5 seconds for increased critical damage.
 
 //The Messenger (Adept)[]
-dimwishlist:item=364665267&perks=247725512,460017080PVP: Body shots boosts precision damage, rapid precision hit increase stability and reaload speed. Do body damage first to boost bonus precision damage, then do precision damage.
-dimwishlist:item=364665267&perks=1428297954,460017080[PVP] Theorycraft: Body shots boosts precision damage, while moving gain bonus stability, handling and reload speed. How to use: Do body damage first to boost bonus precision damage, then do precision damage. Shoot while moving.
+//[Farming] [Trials of Osiris] Flawless Chest in Trials of Osiris.
+dimwishlist:item=364665267&perks=247725512,460017080[PVP] Theorycraft: Body shots boosts precision damage, rapid precision hit increase stability and reaload speed. 
+[PVP] How to use: Do body damage first to boost bonus precision damage, then do precision damage.
+dimwishlist:item=364665267&perks=1428297954,460017080[PVP] Theorycraft: Body shots boosts precision damage, while moving gain bonus stability, handling and reload speed. 
+[PVP] How to use: Do body damage first to boost bonus precision damage, then do precision damage. Shoot while moving.
 
-//Age-Old Bond[]
+//Age-Old Bond[Craftable]
+
 //Swarm of the Raven[]
+//[Farming] [Iron Banner] Complete Iron Banner matches and earn rank-up packages from Lord Saladin.
+dimwishlist:item=433905699&perks=951095735,2888557110[PVP] Theorycraft: Increased projectile velocity and reload speed, final blows cause targets to become volatile. [PVP] How to use: Good when nearby targets are together.
+dimwishlist:item=433905699&perks=2284787283,2048641572[PVE] Theorycraft: Increased projectile velocity and reload speed, reloading overfills from reserves. [PVE] How to use: Regular use, nothing special.
+dimwishlist:item=433905699&perks=3523296417,2048641572[PVE] Theorycraft: Increased projectile velocity and reload speed, kills generate grenade energy. Using your grenade ability refills the magazine. [PVE] How to use: Combine shots with your grenade ability, throw your grenade as soon as possible when you have it again.
+
 //Positive Outlook[]
-//Chattering Bone[]
-//Last Rite[]
+//[Farming] [Strike] Complete strikes and earn rank-up packages from Commander Zavala.
+dimwishlist:item=491078457&perks=1885400500,2387244414,1015611457[PVP] Theorycraft: Causing damage reduces recoil and flinch, reloading after a kill grants increased damage. Rounds ricochet off hard surfaces.
+[PVP] How to use: Reload after a kill.
+dimwishlist:item=491078457&perks=2387244414,2048641572[PVE] Theorycraft: Causing damage reduces recoil and flinch, final blows cause targets to become volatile.
+[PVE] How to use: Shoot Rank-a-file enemies first, make powerful enemies volatile after final blows.
+
+//Chattering Bone[Craftable]
+
+//Last Rite[Curated]
+//[Farming]
 //Cold Comfort[]
+//[Farming] [Dungeon] Ghosts of the Deep Dungeon.
+dimwishlist:item=839786290&perks=968510818,3078487919[PVE] Theorycraft: Defeating targets with other weapons overfills the magazine from reserves, dealing damage with all equiped weapons grants increased damage for 10 seconds. 
+[PVE] How to use: Shoot with all equiped weapons before shooting with this one, when you get bait and switch bonus damage, empty the magazine. Repeat every 10 seconds. Defeat Rank-a-file targets with light ammo to refill the magazine from reserves in between "bait and switch" cycles.
+
 //Braytech Osprey (Adept)[]
-//Rapacious Appetite[]
+//[Farming] [Grandmaster] Grandmaster Nightfall.
+dimwishlist:item=1064132738&perks=968510818,1439600632[PVE] Theorycraft: Defeating targets with other weapons overfills the magazine from reserves, increased ammo and reserves but reduces damage, blast radious and reload speed. 
+[PVE] How to use: Defeat Rank-a-file targets with light ammo to refill the magazine from reserves.
+dimwishlist:item=1064132738&perks=1275731761,1439600632[PVE] Theorycraft: Rockets spawn cluster bombs upon detonation, increased ammo and reserves but reduces damage, blast radious and reload speed. 
+[PVE] How to use: Regular use.
+
+//Rapacious Appetite[Craftable]
+//[Farming][Vendor] Deep engrams and Seasonal Activities
+
 //Pressurized Precicion[]
+//[Farming] [Iron Banner] Complete Iron Banner matches and earn rank-up packages from Lord Saladin.
+dimwishlist:item=1084190509&perks=280464955,1546637391[PVE] Theorycraft: Increased accuracy, stability and handling while crouched, increased damage against bosses and guardians with their super active.
+[PVE] How to use: Crouch before shooting.
+dimwishlist:item=1084190509&perks=280464955,699525795[PVP] Theorycraft: Increased accuracy, stability and handling while crouched, this weapon becomes more accurate and boosts handling as your health gets lower.
+[PVP] How to use: Crouch before shooting.
+
 //Last Foray[]
-//Epochal Integration[]
+//[Farming] Open Legendary engrams and earn faction rank-up packages.
+dimwishlist:item=1106635211&perks=968510818,4293542123[PVE] Theorycraft: Defeating a target spread scorch to those nearby. Defeating targets with other weapons overfills the magazine from reserves. 
+[PVE] How to use: Use light ammo to defeat targets, then swap and empty the mag. Repeat this for every magazine, never reload the weapon.
+dimwishlist:item=1106635211&perks=3978468247,4293542123[PVP] Theorycraft: Defeating a target spread scorch to those nearby. Final blows with other weapons grant this weapon increased speed, accuracy and airbone effectiveness. Final blows refund ammo.
+[PVP] How to use: With discord active, final blows refund ammo. 
+
+//Epochal Integration[Curated]
+
 //New Pacific Epitaph[]
+//[Farming]
+dimwishlist:item=1125217994&perks=3523296417,11612903[PVE]Demolitionist, Adrenaline Junkie
+dimwishlist:item=1125217994&perks=3523296417,3201496230[PVE]Demolitionist, Redirection 
+
 //Just in Case[]
+//[Farming] [Fishing] Season of the Deep Fishing.
+dimwishlist:item=1139727256&perks=3108830275,4293542123 [PVE] Incandescent, Unrelentling
+dimwishlist:item=1139727256&perks=3108830275,4293542123 
 //Unexpected Resurgeance (Adept)
+//[Farming]
 //Sole Survivor
+//[Farming]
 //Combined Action
+//[Farming]
 //Outlast
+//[Farming]
 //Greasy Luck
+//[Farming]
 //A Distant Pull
+//[Farming]
 //Apex Predator
+//[Farming]
 //Mercurial Overreach
+//[Farming]
 //Bug-Out Bag
+//[Farming]
 //Until its Return
+//[Farming]
 //The Supremacy
+//[Farming]
 //Loaded Question (Adept)
+//[Farming]
 //Different Times
+//[Farming]
 //Loaded Question
+//[Farming]
 //Laser Painter
+//[Farming] 
+[PVP]
+[PVP]
+[PVE]
+[PVE]
 //Spare Rations
-dimwishlist:item=3236112986&perks=3161816588,47981717[PVP] Theorycraft: Body shots boosts precision damage, while moving gain bonus stability, handling and reload speed. How to use: Do body damage first to boost bonus precision damage, then do precision damage. Shoot while moving.PVP: Slide first for bonus range and stability, then shoot target. First shot has bonus range and aim assistance.
-dimwishlist:item=3236112986&perks=588594999,3891536761PVE: Boosts Aim assists when Aiming Down Sight (ADS). Sustained damage emits shockwaves.
-dimwishlist:item=3236112986&perks=247725512,3891536761PVE: Do rapid precision hits for bonus stability and reload speed. Stacks 5 times. Sustained damage emits shockwaves.
+//[Farming]
+dimwishlist:item=3236112986&perks=3161816588,47981717PVP: [PVP] Theorycraft: 
+[PVP] How to use: Slide first for bonus range and stability, then shoot target. First shot has bonus range and aim assistance.
+dimwishlist:item=3236112986&perks=588594999,3891536761[PVE] Theorycraft:
+[PVE] How to use: Boosts Aim assists when Aiming Down Sight (ADS). Sustained damage emits shockwaves.
+dimwishlist:item=3236112986&perks=247725512,3891536761[PVE] Theorycraft:
+[PVE] How to use: Do rapid precision hits for bonus stability and reload speed. Stacks 5 times. Sustained damage emits shockwaves.
 
 //No Survivors
+//[Farming]
 //Randy's Throwing Knife
+//[Farming]
 //Tyranny of Heaven
+//[Farming]
 //Techeun Force
+//[Farming]
 //Braytech Osprey
+//[Farming]
 //Old Sterling
+//[Farming]
 //The Messenger
+//[Farming]
 //Transfiguration
+//[Farming]
 //Targeted Redaction
+//[Farming]
 //Unexpected Resurgence
+//[Farming]
 //Thin Precipice
+//[Farming]
 //Last Man Standing
+//[Farming]
